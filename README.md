@@ -96,16 +96,14 @@ I turn complex data into clear, actionable insights. My work focuses on **data a
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arihantaj2911&bg_color=0d1117&color=58a6ff&line=2dd4bf&point=ffffff&area=true&area_color=164e63&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity line graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arihantaj2911&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity line graph" width="100%"/>
 
 </div>
 
-## 🤝 Let's Connect
+## Contact
 
-I'm interested in connecting with people working in **data analytics, business intelligence, healthcare analytics, and data-driven product development**.
-
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/arihant-ostwal2911/)
-- ✉️ [Email me](mailto:ostwal.arihant92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-ostwal2911/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ostwal.arihant92@gmail.com)
 
 ---
 
