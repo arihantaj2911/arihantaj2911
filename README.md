@@ -96,7 +96,7 @@ I turn complex data into clear, actionable insights. My work focuses on **data a
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arihantaj2911&theme=tokyonight&hide_border=true&area=true&grid=true" alt="GitHub contribution activity line graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arihantaj2911&theme=tokyonight&hide_border=true&area=true&grid=true&point=9efeff" alt="GitHub contribution activity line graph" width="100%"/>
 
 </div>
 
