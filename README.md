@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Replace this banner URL with a custom GitHub profile banner if you add one to your repository. -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:123B5D,100:0EA5A4&height=180&section=header&text=Arihant%20Ostwal&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Healthcare%20%26%20Banking&descAlignY=67&descSize=15" width="100%" alt="Arihant Ostwal — Data Analytics, Business Intelligence, Healthcare and Banking"/>
-
 # Hi, I'm Arihant 👋
 
 ### Data Analyst | SQL · Python · Power BI
@@ -11,7 +8,6 @@ I turn complex data into clear, actionable insights. My work focuses on **data a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-ostwal2911/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ostwal.arihant92@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arihantaj2911)
 
 </div>
 
@@ -94,19 +90,13 @@ I turn complex data into clear, actionable insights. My work focuses on **data a
 
 <br/><br/>
 
-<!-- GitHub profile statistics -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arihantaj2911&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub profile statistics"/>
 <img height="170" src="https://streak-stats.demolab.com?user=arihantaj2911&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
 ### Contribution Activity
 
-<img src="https://ghchart.rshah.org/0EA5A4/arihantaj2911" alt="GitHub contribution activity calendar" width="100%"/>
-
-### Commit Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arihantaj2911&bg_color=1a1b27&color=70a5fd&line=0EA5A4&point=FFFFFF&area=true&hide_border=true" alt="GitHub commit activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arihantaj2911&bg_color=0d1117&color=58a6ff&line=2dd4bf&point=ffffff&area=true&area_color=164e63&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity line graph" width="100%"/>
 
 </div>
 
@@ -116,7 +106,6 @@ I'm interested in connecting with people working in **data analytics, business i
 
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/arihant-ostwal2911/)
 - ✉️ [Email me](mailto:ostwal.arihant92@gmail.com)
-- 💻 [Explore my GitHub repositories](https://github.com/arihantaj2911)
 
 ---
 
